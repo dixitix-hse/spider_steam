@@ -1,0 +1,2 @@
+# spider_steam
+scrapy
